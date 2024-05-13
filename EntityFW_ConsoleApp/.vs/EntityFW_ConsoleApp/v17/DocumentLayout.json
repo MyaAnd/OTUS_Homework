@@ -3,28 +3,72 @@
   "WorkspaceRootPath": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67503E6C-43E9-4CF4-B466-E2CC4B06B11C}|EntityFW_ConsoleApp\\EntityFW_ConsoleApp.csproj|c:\\otus\\homework\\entityfw_consoleapp\\entityfw_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67503E6C-43E9-4CF4-B466-E2CC4B06B11C}|EntityFW_ConsoleApp\\EntityFW_ConsoleApp.csproj|solutionrelative:entityfw_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67503E6C-43E9-4CF4-B466-E2CC4B06B11C}|EntityFW_ConsoleApp\\EntityFW_ConsoleApp.csproj|c:\\otus\\homework\\entityfw_consoleapp\\entityfw_consoleapp\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67503E6C-43E9-4CF4-B466-E2CC4B06B11C}|EntityFW_ConsoleApp\\EntityFW_ConsoleApp.csproj|solutionrelative:entityfw_consoleapp\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67503E6C-43E9-4CF4-B466-E2CC4B06B11C}|EntityFW_ConsoleApp\\EntityFW_ConsoleApp.csproj|c:\\otus\\homework\\entityfw_consoleapp\\entityfw_consoleapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67503E6C-43E9-4CF4-B466-E2CC4B06B11C}|EntityFW_ConsoleApp\\EntityFW_ConsoleApp.csproj|solutionrelative:entityfw_consoleapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\classes\\failresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\classes\\failresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67503E6C-43E9-4CF4-B466-E2CC4B06B11C}|EntityFW_ConsoleApp\\EntityFW_ConsoleApp.csproj|c:\\otus\\homework\\entityfw_consoleapp\\entityfw_consoleapp\\dbdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67503E6C-43E9-4CF4-B466-E2CC4B06B11C}|EntityFW_ConsoleApp\\EntityFW_ConsoleApp.csproj|solutionrelative:entityfw_consoleapp\\dbdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\interfaces\\idifficultyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\interfaces\\idifficultyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67503E6C-43E9-4CF4-B466-E2CC4B06B11C}|EntityFW_ConsoleApp\\EntityFW_ConsoleApp.csproj|c:\\otus\\homework\\entityfw_consoleapp\\entityfw_consoleapp\\entities\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67503E6C-43E9-4CF4-B466-E2CC4B06B11C}|EntityFW_ConsoleApp\\EntityFW_ConsoleApp.csproj|solutionrelative:entityfw_consoleapp\\entities\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\interfaces\\inumberchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\interfaces\\inumberchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67503E6C-43E9-4CF4-B466-E2CC4B06B11C}|EntityFW_ConsoleApp\\EntityFW_ConsoleApp.csproj|c:\\otus\\homework\\entityfw_consoleapp\\entityfw_consoleapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67503E6C-43E9-4CF4-B466-E2CC4B06B11C}|EntityFW_ConsoleApp\\EntityFW_ConsoleApp.csproj|solutionrelative:entityfw_consoleapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\interfaces\\istringcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\interfaces\\istringcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\interfaces\\irangeddifficultyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\interfaces\\irangeddifficultyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\interfaces\\irandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\interfaces\\irandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\interfaces\\ilimitedcounterdifficultyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\interfaces\\ilimitedcounterdifficultyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\interfaces\\igameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\interfaces\\igameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\classes\\easydifficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\classes\\easydifficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\classes\\numberchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\classes\\numberchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\classes\\normaldifficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\classes\\normaldifficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\classes\\harddifficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\classes\\harddifficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\classes\\winresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\classes\\winresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\classes\\difficultyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\classes\\difficultyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\otus\\homework\\entityfw_consoleapp\\numberguessinggame\\classes\\randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B22BF8B-6C6C-4E3F-B094-DA9DB80F3BD2}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\classes\\randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,87 +77,319 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 213,
+          "SelectedChildIndex": 26,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\EntityFW_ConsoleApp\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "EntityFW_ConsoleApp\\Entities\\Order.cs",
-              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\EntityFW_ConsoleApp\\Entities\\Order.cs",
-              "RelativeToolTip": "EntityFW_ConsoleApp\\Entities\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAlwBIAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T14:03:38.038Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderInfo.cs",
-              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\EntityFW_ConsoleApp\\Entities\\OrderInfo.cs",
-              "RelativeDocumentMoniker": "EntityFW_ConsoleApp\\Entities\\OrderInfo.cs",
-              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\EntityFW_ConsoleApp\\Entities\\OrderInfo.cs",
-              "RelativeToolTip": "EntityFW_ConsoleApp\\Entities\\OrderInfo.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAArwA0AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T14:19:58.307Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\EntityFW_ConsoleApp\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "EntityFW_ConsoleApp\\Entities\\User.cs",
-              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\EntityFW_ConsoleApp\\Entities\\User.cs",
-              "RelativeToolTip": "EntityFW_ConsoleApp\\Entities\\User.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAjwBEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T13:59:55.934Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b015bca8-f686-4aaf-a093-5d028dbdb089}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:314957115:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\EntityFW_ConsoleApp\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "EntityFW_ConsoleApp\\Entities\\Product.cs",
-              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\EntityFW_ConsoleApp\\Entities\\Product.cs",
-              "RelativeToolTip": "EntityFW_ConsoleApp\\Entities\\Product.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAWwBUAAAAAAAAA",
+              "Title": "FailResult.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\FailResult.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Classes\\FailResult.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\FailResult.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Classes\\FailResult.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T11:38:34.345Z",
+              "WhenOpened": "2024-05-13T09:22:41.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DBDataContext.cs",
-              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\EntityFW_ConsoleApp\\DBDataContext.cs",
-              "RelativeDocumentMoniker": "EntityFW_ConsoleApp\\DBDataContext.cs",
-              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\EntityFW_ConsoleApp\\DBDataContext.cs",
-              "RelativeToolTip": "EntityFW_ConsoleApp\\DBDataContext.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAxwDQAAAAlAAAA",
+              "Title": "IDifficultySelector.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\IDifficultySelector.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Interfaces\\IDifficultySelector.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\IDifficultySelector.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Interfaces\\IDifficultySelector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T11:36:50.483Z",
+              "WhenOpened": "2024-05-12T17:01:37.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INumberChecker.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\INumberChecker.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Interfaces\\INumberChecker.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\INumberChecker.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Interfaces\\INumberChecker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:31:35.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRandomizer.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\IRandomizer.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Interfaces\\IRandomizer.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\IRandomizer.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Interfaces\\IRandomizer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:52:10.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRangedDifficultyConfiguration.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\IRangedDifficultyConfiguration.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Interfaces\\IRangedDifficultyConfiguration.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\IRangedDifficultyConfiguration.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Interfaces\\IRangedDifficultyConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:55:16.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStringComparer.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\IStringComparer.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Interfaces\\IStringComparer.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\IStringComparer.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Interfaces\\IStringComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:06:54.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\Game.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Classes\\Game.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\Game.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Classes\\Game.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:36:25.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\EntityFW_ConsoleApp\\Program.cs",
-              "RelativeDocumentMoniker": "EntityFW_ConsoleApp\\Program.cs",
-              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\EntityFW_ConsoleApp\\Program.cs",
-              "RelativeToolTip": "EntityFW_ConsoleApp\\Program.cs",
-              "ViewState": "AQIAALYAAAAAAAAAAAAhwNEAAAABAAAA",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Program.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Program.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Program.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T11:27:57.449Z",
+              "WhenOpened": "2024-05-12T16:38:15.695Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILimitedCounterDifficultyConfiguration.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\ILimitedCounterDifficultyConfiguration.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Interfaces\\ILimitedCounterDifficultyConfiguration.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\ILimitedCounterDifficultyConfiguration.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Interfaces\\ILimitedCounterDifficultyConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:11:25.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGameResult.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\IGameResult.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Interfaces\\IGameResult.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\IGameResult.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Interfaces\\IGameResult.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:48:04.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EasyDifficulty.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\EasyDifficulty.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Classes\\EasyDifficulty.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\EasyDifficulty.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Classes\\EasyDifficulty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:57:55.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NumberChecker.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\NumberChecker.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Classes\\NumberChecker.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\NumberChecker.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Classes\\NumberChecker.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:32:45.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NormalDifficulty.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\NormalDifficulty.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Classes\\NormalDifficulty.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\NormalDifficulty.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Classes\\NormalDifficulty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:59:29.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HardDifficulty.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\HardDifficulty.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Classes\\HardDifficulty.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\HardDifficulty.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Classes\\HardDifficulty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:00:15.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WinResult.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\WinResult.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Classes\\WinResult.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\WinResult.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Classes\\WinResult.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:24:09.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DifficultySelector.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\DifficultySelector.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Classes\\DifficultySelector.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\DifficultySelector.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Classes\\DifficultySelector.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:01:19.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Randomizer.cs",
+              "DocumentMoniker": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\Randomizer.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Classes\\Randomizer.cs",
+              "ToolTip": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\Classes\\Randomizer.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Classes\\Randomizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:22:03.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

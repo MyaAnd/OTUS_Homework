@@ -101,3 +101,4 @@ C:\OTUS\Homework\EntityFW_ConsoleApp\EntityFW_ConsoleApp\obj\Debug\net8.0\refint
 C:\OTUS\Homework\EntityFW_ConsoleApp\EntityFW_ConsoleApp\obj\Debug\net8.0\EntityFW_ConsoleApp.pdb
 C:\OTUS\Homework\EntityFW_ConsoleApp\EntityFW_ConsoleApp\obj\Debug\net8.0\EntityFW_ConsoleApp.genruntimeconfig.cache
 C:\OTUS\Homework\EntityFW_ConsoleApp\EntityFW_ConsoleApp\obj\Debug\net8.0\ref\EntityFW_ConsoleApp.dll
+C:\OTUS\Homework\EntityFW_ConsoleApp\EntityFW_ConsoleApp\obj\Debug\net8.0\EntityFW_ConsoleApp.sourcelink.json
