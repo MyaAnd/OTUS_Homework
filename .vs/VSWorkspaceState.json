@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EntityFW_ConsoleApp",
+    "\\EntityFW_ConsoleApp\\NumberGuessingGame",
+    "\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces"
   ],
-  "SelectedNode": "\\C:\\OTUS\\Homework",
+  "SelectedNode": "\\EntityFW_ConsoleApp\\NumberGuessingGame\\Interfaces\\IStringComparer.cs",
   "PreviewInSolutionExplorer": false
 }

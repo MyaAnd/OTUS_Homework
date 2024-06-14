@@ -13,3 +13,8 @@ C:\OTUS\Homework\EntityFW_ConsoleApp\NumberGuessingGame\obj\Debug\net8.0\refint\
 C:\OTUS\Homework\EntityFW_ConsoleApp\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.pdb
 C:\OTUS\Homework\EntityFW_ConsoleApp\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.genruntimeconfig.cache
 C:\OTUS\Homework\EntityFW_ConsoleApp\NumberGuessingGame\obj\Debug\net8.0\ref\NumberGuessingGame.dll
+C:\OTUS\Homework\EntityFW_ConsoleApp\NumberGuessingGame\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\OTUS\Homework\EntityFW_ConsoleApp\NumberGuessingGame\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\OTUS\Homework\EntityFW_ConsoleApp\NumberGuessingGame\bin\Debug\net8.0\Npgsql.dll
+C:\OTUS\Homework\EntityFW_ConsoleApp\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.csproj.AssemblyReference.cache
+C:\OTUS\Homework\EntityFW_ConsoleApp\NumberGuessingGame\obj\Debug\net8.0\NumberGu.C7F4E54F.Up2Date

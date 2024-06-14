@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "h5FmgTJCYuebfvW6r+a2+sB9pPYlAJ/7HIErs/gUeo5u8y/oQLiAkMg7ZUd9MiOxh9GKWQH8TFaNTrGgGIef6w==",
+  "dgSpecHash": "t48aykt8kpM=",
   "success": true,
   "projectFilePath": "C:\\OTUS\\Homework\\EntityFW_ConsoleApp\\NumberGuessingGame\\NumberGuessingGame.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\myand\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\myand\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\myand\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
