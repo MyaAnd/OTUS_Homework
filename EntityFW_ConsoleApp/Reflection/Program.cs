@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using Reflection;
 using System.Diagnostics;
 using System.Text.Json;
 
@@ -10,52 +11,8 @@ Program.Main();
 static partial class Program
 {
 
-    public class F
-    {
-        public int i1 { get; set; }
-        public int i2 { get; set; }
-        public int i3 { get; set; }
-        public int i4 { get; set; }
-        public int i5 { get; set; }
-        static void Get() => new F() { i1 = 1, i2 = 2, i3 = 3, i4 = 4, i5 = 5 };
-        public static string Serialize(F f)
-        {
-            return $"{f.i1},{f.i2},{f.i3},{f.i4},{f.i5}";
-        }
-
-        public static F Deserialize(string f)
-        {
-            int separatorIndex = f.IndexOf(",");
-            int i1 = Int32.Parse(f.Substring(0, separatorIndex));
-            f = f.Substring(separatorIndex + 1, f.Length - separatorIndex - 1);
-
-            separatorIndex = f.IndexOf(",");
-            int i2 = Int32.Parse(f.Substring(0, separatorIndex));
-            f = f.Substring(separatorIndex + 1, f.Length - separatorIndex - 1);
-
-            separatorIndex = f.IndexOf(",");
-            int i3 = Int32.Parse(f.Substring(0, separatorIndex));
-            f = f.Substring(separatorIndex + 1, f.Length - separatorIndex - 1);
-
-            separatorIndex = f.IndexOf(",");
-            int i4 = Int32.Parse(f.Substring(0, separatorIndex));
-            f = f.Substring(separatorIndex + 1, f.Length - separatorIndex - 1);
-
-            int i5 = Int32.Parse(f);
-
-            return new F() { i1 = i1, i2 = i2, i3 = i3, i4 = i4, i5 = i5 };
-        }
-
-        public static F DeserializeFromFile(string filePath)
-        {
-            return Deserialize(File.ReadAllText(filePath));
-        }
-    }
-
-
     static void Main()
     {
-
         F test = new F() { i1 = 1, i2 = 2, i3 = 3, i4 = 4, i5 = 5 };
         string serialized;
         F deserialized;
@@ -66,11 +23,11 @@ static partial class Program
         for (int i = 0; i < 100000; i++)
         {
             serializationStopWatch.Start();
-            serialized = F.Serialize(test);
+            serialized = MySerializer<F>.Serialize(test);
             serializationStopWatch.Stop();
 
             deserializationStopWatch.Start();
-            deserialized = F.Deserialize(serialized);
+            deserialized = MySerializer<F>.Deserialize(serialized);
             deserializationStopWatch.Stop();
         }
 
@@ -96,10 +53,15 @@ static partial class Program
         serializationStopWatch.Reset();
         deserializationStopWatch.Reset();
 
+        string filePathIni = "FSerialized.ini";
+        string filePathCsv = "FSerialized.csv";
+
+        MySerializer<F>.SerializeToFile(filePathCsv, test);
+
         for (int i = 0; i < 100000; i++)
         {
             deserializationStopWatch.Start();
-            deserialized = F.DeserializeFromFile("FSerialized.txt");
+            deserialized = MySerializer<F>.DeserializeFromFile(filePathCsv);
             deserializationStopWatch.Stop();
         }
         Console.WriteLine($"Total deserialization time of My serializer from file: {deserializationStopWatch.Elapsed.TotalMilliseconds} milliseconds");
