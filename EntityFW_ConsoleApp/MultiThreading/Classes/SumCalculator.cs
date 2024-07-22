@@ -8,9 +8,9 @@ namespace MultiThreading.Classes
 {
     public static class SumCalculator
     {
-        private static int CalculateSumInRange(int[] array, int start, int end)
+        private static uint CalculateSumInRange(uint[] array, int start, int end)
         {
-            int sum = 0;
+            uint sum = 0;
 
             for (int i = start; i <= end; i++)
             {
@@ -20,23 +20,22 @@ namespace MultiThreading.Classes
             return sum;
         }
 
-        public static int SynchronousSumCalculation(int[] array)
+        public static uint SynchronousSumCalculation(uint[] array)
         {
             return CalculateSumInRange(array, 0, array.Length - 1);
         }
 
-        public static int ParallelSumCalculator(int[] array, int threadsUsed)
+        public static uint ParallelSumCalculator(uint[] array, int threadsUsed)
         {
             int step = Convert.ToInt32(Math.Round((double)(array.Length - 1) / threadsUsed));
-            int startPos = 0;
-            int endPos = 0;
 
-            List<Task<int>> sumTasks = new List<Task<int>>();
 
-            for(int i = 0; i < threadsUsed; i++)
+            List<Task<uint>> sumTasks = new List<Task<uint>>();
+
+            for (int i = 0; i < threadsUsed; i++)
             {
-                startPos = i * step;
-                endPos = startPos + step - 1;
+                int startPos = i * step;
+                int endPos = startPos + step - 1;
 
                 if (i == threadsUsed - 1)
                 {
@@ -45,8 +44,17 @@ namespace MultiThreading.Classes
 
                 sumTasks.Add(Task.Run(() => CalculateSumInRange(array, startPos, endPos)));
             }
-            
-            return Task.WhenAll(sumTasks).Result.Sum();
+
+            Task.WhenAll(sumTasks);
+
+
+            uint sum = 0;
+            foreach (Task<uint> task in sumTasks)
+            {
+                sum += task.Result;
+            }
+
+            return sum;
         }
     }
 }

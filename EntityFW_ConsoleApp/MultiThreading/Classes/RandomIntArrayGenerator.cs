@@ -8,15 +8,15 @@ namespace MultiThreading.Classes
 {
     public static class RandomIntArrayGenerator
     {
-        public static int[] Generate(int size, int minValue, int maxValue)
+        public static uint[] Generate(int size, int minValue, int maxValue)
         {
-            int[] result = new int[size];
+            uint[] result = new uint[size];
 
             Random rnd = new Random();
 
             for (int i = 0; i < size; i++)
             {
-                result[i] = rnd.Next(minValue, maxValue + 1);
+                result[i] = Convert.ToUInt32(rnd.Next(minValue, maxValue + 1));
             }
 
             return result;
