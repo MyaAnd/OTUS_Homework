@@ -8,9 +8,9 @@ namespace MultiThreading.Classes
 {
     public static class SumCalculator
     {
-        private static uint CalculateSumInRange(uint[] array, int start, int end)
+        private static long CalculateSumInRange(long[] array, int start, int end)
         {
-            uint sum = 0;
+            long sum = 0;
 
             for (int i = start; i <= end; i++)
             {
@@ -20,17 +20,17 @@ namespace MultiThreading.Classes
             return sum;
         }
 
-        public static uint SynchronousSumCalculation(uint[] array)
+        public static long SynchronousSumCalculation(long[] array)
         {
             return CalculateSumInRange(array, 0, array.Length - 1);
         }
 
-        public static uint ParallelSumCalculator(uint[] array, int threadsUsed)
+        public static long ParallelSumCalculator(long[] array, int threadsUsed)
         {
             int step = Convert.ToInt32(Math.Round((double)(array.Length - 1) / threadsUsed));
 
 
-            List<Task<uint>> sumTasks = new List<Task<uint>>();
+            List<Task<long>> sumTasks = new List<Task<long>>();
 
             for (int i = 0; i < threadsUsed; i++)
             {
@@ -42,19 +42,30 @@ namespace MultiThreading.Classes
                     endPos = array.Length - 1;
                 }
 
-                sumTasks.Add(Task.Run(() => CalculateSumInRange(array, startPos, endPos)));
+                sumTasks.Add(Task.Run(() =>
+                {
+                    //Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
+                    return CalculateSumInRange(array, startPos, endPos);
+                }));
+            
             }
 
             Task.WhenAll(sumTasks);
 
 
-            uint sum = 0;
-            foreach (Task<uint> task in sumTasks)
+            long sum = 0;
+            foreach (Task<long> task in sumTasks)
             {
                 sum += task.Result;
             }
 
             return sum;
+        }
+
+        public static long ParallelLinqSumCalculator(long[] array)
+        {
+            var pq = array.AsParallel();
+            return pq.Sum();
         }
     }
 }
