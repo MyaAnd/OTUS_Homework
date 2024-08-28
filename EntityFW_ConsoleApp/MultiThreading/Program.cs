@@ -1,6 +1,7 @@
 ﻿using MultiThreading.Classes;
 using System.Diagnostics;
 
+//int maxArraySize = 1000000000;
 int maxArraySize = 1000000000;
 
 var generatedArray = RandomIntArrayGenerator.Generate(maxArraySize, 0, 100);

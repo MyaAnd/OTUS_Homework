@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Dele
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parallelism", "Parallelism\Parallelism.csproj", "{183ACB5E-EDC4-4EA8-9BD6-E53E40763546}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreading", "MultiThreading\MultiThreading.csproj", "{A8A498CC-EE5C-4399-AFE6-562B60736888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiThreading", "MultiThreading\MultiThreading.csproj", "{A8A498CC-EE5C-4399-AFE6-562B60736888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "PrototypePattern\PrototypePattern.csproj", "{98E958D0-626A-4AC1-8D50-06A3FD6921F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A8A498CC-EE5C-4399-AFE6-562B60736888}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8A498CC-EE5C-4399-AFE6-562B60736888}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8A498CC-EE5C-4399-AFE6-562B60736888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98E958D0-626A-4AC1-8D50-06A3FD6921F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E958D0-626A-4AC1-8D50-06A3FD6921F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E958D0-626A-4AC1-8D50-06A3FD6921F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E958D0-626A-4AC1-8D50-06A3FD6921F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
