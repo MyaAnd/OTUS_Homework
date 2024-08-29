@@ -9,7 +9,7 @@ namespace PrototypePattern.Classes
 {
     public class TextMessage : IMyCloneable<TextMessage>, ICloneable
     {
-        protected string Text { get; set; }
+        public string Text { get; set; }
 
         public TextMessage(string text) { Text = text; }
 

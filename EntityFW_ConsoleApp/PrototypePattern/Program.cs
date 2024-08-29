@@ -1,39 +1,59 @@
 ﻿using PrototypePattern.Classes;
 
 string message = "Hello World!";
+string message2 = "Bye bye World!";
+string message3 = "Hello again";
 
 TextMessage tm = new TextMessage(message);
-tm.PrintMessage();
 
 ColoredTextMessage coloredTextMessage = new ColoredTextMessage(message, ConsoleColor.Red);
-coloredTextMessage.PrintMessage();
+
 
 AllCapsColoredTextMessage allCapsColoredTextMessage = new AllCapsColoredTextMessage(message,ConsoleColor.Green);
-allCapsColoredTextMessage.PrintMessage();
 
 AllLowerColoredTextMessage allLowerColoredTextMessage = new AllLowerColoredTextMessage(message, ConsoleColor.Blue);
-allLowerColoredTextMessage.PrintMessage();
+
 
 Console.WriteLine();
 
 var tmMyClone = tm.MyCloneMethod();
+tmMyClone.Text = message2;
 var coloredTextMessageMyClone = coloredTextMessage.MyCloneMethod();
+coloredTextMessageMyClone.Text = message2;
 var allCapsColoredTextMessageMyClone = allCapsColoredTextMessage.MyCloneMethod();
+allCapsColoredTextMessageMyClone.Text= message2;
 var allLowerColoredTextMessageMyClone = allLowerColoredTextMessage.MyCloneMethod();
+allLowerColoredTextMessageMyClone.Text= message2;
 
+var tmClone = tm.Clone(); ((TextMessage)tmClone).Text = message3;
+var coloredTextMessageClone = coloredTextMessage.Clone(); ((ColoredTextMessage)coloredTextMessageClone).Text = message3;
+var allCapsColoredTextMessageClone = allCapsColoredTextMessage.Clone(); ((AllCapsColoredTextMessage)allCapsColoredTextMessageClone).Text = message3;
+var allLowerColoredTextMessageClone = allLowerColoredTextMessage.Clone(); ((AllLowerColoredTextMessage)allLowerColoredTextMessageClone).Text= message3;
+
+
+tm.PrintMessage();
 tmMyClone.PrintMessage();
-coloredTextMessageMyClone.PrintMessage();
-allCapsColoredTextMessageMyClone.PrintMessage();
-allLowerColoredTextMessage.PrintMessage();
-
+((TextMessage)tmClone).PrintMessage();
 Console.WriteLine();
 
-var tmClone = tm.Clone();
-var coloredTextMessageClone = coloredTextMessage.Clone();
-var allCapsColoredTextMessageClone = allCapsColoredTextMessage.Clone();
-var allLowerColoredTextMessageClone = allLowerColoredTextMessage.Clone();
-
-((TextMessage)tmClone).PrintMessage();
+coloredTextMessage.PrintMessage();
+coloredTextMessageMyClone.PrintMessage();
 ((ColoredTextMessage)coloredTextMessageClone).PrintMessage();
+Console.WriteLine();
+
+allCapsColoredTextMessage.PrintMessage();
+allCapsColoredTextMessageMyClone.PrintMessage();
 ((AllCapsColoredTextMessage)allCapsColoredTextMessageClone).PrintMessage();
-((AllLowerColoredTextMessage)allLowerColoredTextMessage).PrintMessage();
+Console.WriteLine();
+
+allLowerColoredTextMessage.PrintMessage();
+allLowerColoredTextMessageMyClone.PrintMessage();
+((AllLowerColoredTextMessage)allLowerColoredTextMessageClone).PrintMessage();
+Console.WriteLine();
+
+
+
+
+
+
+
